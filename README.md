@@ -7,7 +7,7 @@ I am a results-driven and innovative  Architect with a strong passion for drivin
 
 - **Current Role:** Leading architectural transformation at Mudah
 - **Experience:** Over two decades of experience in Infrastructure, software, and web application development
-- **Expertise:**  Service Runtime - Kubernetes & GitOps, CI/CD Pipeline, Secret Management, Operation Observability , API design, and development
+- **Expertise:**  Service Runtime - Kubernetes & GitOps, CI/CD Pipeline - canary release, Secret Management, Operation Observability, API design, and development
 - **Leadership:** Leading a team of talented Site Reliability Engineers, overseeing data centers and cloud infrastructures
 
 ## Achievements and Responsibilities
@@ -30,6 +30,10 @@ I am a results-driven and innovative  Architect with a strong passion for drivin
 - Distributed Systems
 - Cloud Migration
 - Infrastructure Planning
+- Service Runtime - Kubernetes & GitOps
+- CI/CD Pipeline - canary release
+- Secret Management
+- Operation Observability 
 - API Design
 - Information Security
 - Team Leadership
