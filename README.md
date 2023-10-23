@@ -30,8 +30,8 @@ I am a results-driven and innovative  Architect with a strong passion for drivin
 - Distributed Systems
 - Cloud Migration
 - Infrastructure Planning
-- Service Runtime - Kubernetes & GitOps
-- CI/CD Pipeline - canary release
+- Orchestration and Management - Kubernetes, Istio
+- CI/CD Pipeline - Canary release - - Gitlab, Github action, Jenkins, Helm 
 - Secret Management
 - Operation Observability 
 - API Design
